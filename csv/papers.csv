@@ -1,0 +1,158 @@
+Paper ID,DOI,Hypotheses,Title
+1,10.1109/wiiat.2008.55,,A cooperative multi-agent approach to computer forensics
+2,10.1007/978-3-642-01393-5_3,,A cybercrime forensic method for chinese web information authorship analysis
+3,10.1007/978-3-319-24123-4_15,,A framework for describing multimedia circulation in a smartphone ecosystem
+4,10.1016/j.cor.2015.11.003,,A heuristic for maximizing investigation effectiveness of digital forensic cases involving multiple investigators
+5,10.1016/j.ins.2016.07.019,,A lightweight live memory forensic approach based on hardware virtualization
+6,10.1007/978-3-642-33962-2_6,,A new approach for creating forensic hashsets
+7,10.1145/3199478.3199497,,A new method of live tracking of process memory
+8,10.1016/j.diin.2013.01.003,,A new triage model conforming to the needs of selective search and seizure of electronic evidence
+9,10.1145/3193077.3193087,,A non-algorithmic forensic approach for hiding data in image files
+10,10.1016/j.diin.2008.05.001,Extracted write-print exhibits strong evidence for supporting the conclusion on authorship?,A novel approach of mining write-prints for authorship attribution in e-mail forensics
+11,10.1007/978-3-319-73697-6_7,,A novel file carving algorithm for EVTX logs
+12,10.1016/j.eswa.2016.07.026,,A novel forged blurred region detection system for image forensic applications
+13,10.1007/978-3-642-19513-6_3,,A simple cost-effective framework for iPhone forensic analysis
+14,10.1016/j.diin.2016.08.001,,A suspect-oriented intelligent and automated computer forensic analysis
+15,10.1016/j.ins.2011.03.006,H0 = AuthorMiner2 - other_method = 0; Ha = AuthorMiner2 - other_method <> 0,A unified data mining solution for authorship analysis in anonymous textual communications
+16,10.1007/s10766-013-0285-2,,A Virtualization Based Monitoring System for Mini-intrusive Live Forensics
+17,10.4156/jdcta.vol5.issue9.25,"Intention Pl( ) = Be( ) and Be( ) = BPA( ) = 0, Intention Pl( ) ≥ Be( ) and Be( ) ≥ BPA( ) =1",AIA: Attack intention analysis algorithm based on D-S theory with causal technique for network forensics - A case study|
+18,10.1016/j.diin.2010.01.003,,An adaptive method to identify disk cluster size based on block content
+19,10.1109/ntms.2014.6814005,,An approach for the validation of file recovery functions in digital forensics' software tools
+20,,,An approach to analyze physical memory image file of Mac OS X
+21,10.4156/jdcta.vol5.issue2.35,,An efficient scheme for hard disk integrity check in digital forensics by hashing with combinatorial group testing
+22,10.1109/fskd.2010.5569290,,An event ontology construction approach to web crime mining
+23,10.1109/ccst.2006.313445,,An instant messaging intrusion detection system framework: Using character frequency analysis for authorship identification and validation
+24,10.1109/tifs.2016.2543205,,Anti-Forensics of Environmental-Signature-Based Audio Splicing Detection and Its Countermeasure via Rich-Features Classification
+25,10.1016/j.neunet.2012.02.021,,Application of growing hierarchical SOM for visualisation of network forensics traffic data
+26,10.1109/ains.2017.8270427,,Attributing users based on web browser history
+27,10.1016/j.diin.2011.04.002,,Author gender identification from text
+28,10.1016/j.knosys.2014.04.025,,Authorship identification from unstructured texts
+29,10.1109/etcs.2009.153,,Automated analysis of multi-source logs for network forensics
+30,,,Automating the harmonisation of heterogeneous data in digital forensics
+31,10.3837/tiis.2016.08.028,,Broken integrity detection of video files in video event data recorders
+32,10.1109/confluence.2017.7943232,,CCTV quality assessment for forensics facial recognition analysis
+33,,,Comparison of deep neural network architectures for authorship attribution of Russian social media texts
+34,10.1007/978-3-642-41148-9_22,,Comparison of the Data Recovery Function of Forensic Tools
+35,10.4304/jnw.9.4.1005-1011,,Computer crime forensics based on improved decision tree algorithm
+36,10.1007/s11042-015-2798-8,,Computer forensic analysis model for the reconstruction of chain of evidence of volatile memory data
+37,10.4103/0256-4602.67149,,Content-based file-type identification using cosine similarity and a divide-and-conquer approach
+38,10.1109/isa.2008.90,,Cyber criminal activity analysis models using Markov Chain for digital forensics
+39,10.1007/s11227-015-1516-7,,Cybercrime investigation countermeasure using created-accessed-modified model in cloud computing environments
+40,,"like most of the examples illustrated above, that cyber criminal engagement is positively correlated with bypassing the Internet proxy","Cybercrime, censorship, perception and bypassing controls: An exploratory study"
+41,10.1145/3206004.320601,,Densely connected convolutional neural network for multi-purpose image forensics under anti-forensic attacks
+42,10.1109/iv.2015.62,,Detecting criminal relationships through SOM visual analytics
+43,,,Detecting JFIF header using FORHEADER
+44,10.1587/transinf.e97.d.1304,,Detecting trace of seam carving for forensic analysis
+45,10.1007/s11042-018-6570-8,,Detection and localization of inter-frame video forgeries based on inconsistency in correlation distribution between Haralick coded frames
+46,10.1007/978-3-319-53153-3_8,,Differential evolution based significant data region identification on large storage drives
+47,10.1007/978-3-319-31960-5_4,,Discriminating between computer-generated facial images and natural ones using smoothness property and local entropy
+48,10.1109/tifs.2012.2223679,,Document clustering for forensic analysis: An approach for improving computer inspection
+49,10.1109/iaw.2005.1495955,,Efficient log authentication for Forensic Computing
+50,10.1016/j.diin.2018.02.004,,Efficiently searching target data traces in storage devices with region based random sector sampling approach
+51,10.1016/j.diin.2015.05.012,,E-mail authorship attribution using customized associative classification
+52,10.1016/j.knosys.2018.01.014,"personal phrases sentences containing a first person pronoun better reflect the interests, opinions and feelings of authors , and that emphasizing the role of their terms could lead to significant improvements in the AP performance",Emphasizing personal information for Author Profiling: New approaches for term selection and weighting
+53,,"1. Deleted data on high usage disks will have a lower chance of permanent loss due to increased stress of garbage collection. Disk firmware will have a greater effect on recovering data due to the number of pages the garbage collector has to prioritize for deletion.
+2. Deleted data on low usage disks will have a greater chance of permanent loss due to focused garbage collection.
+3. Deleted data recovery from OS formatted disks will be dependent on disk firmware.
+",Empirical analysis of solid state disk data retention when used with contemporary operating systems
+54,10.1007/s00500-016-2311-y,,Enabling public auditability for operation behaviors in cloud storage
+55,10.1109/cis.2011.181,,Evaluating the effect of loading forensic tools on the volatile memory for digital evidences
+56,10.1007/978-3-642-41148-9_6,,Evaluation of the Semi-automated Crime-Specific Digital Triage Process Model
+57,10.1007/978-3-319-73697-6_11,,Expediting MRSH-v2 approximate matching with hierarchical bloom filter trees
+58,10.1109/icdmw.2011.81,,Exploring Support Vector Machines and Random Forests to detect Advanced Fee Fraud activities on internet
+59,10.1016/j.diin.2016.01.015,if two sessions have a high Jaccard Coefficient then they belong to the same user.,Facilitating forensic examinations of multi-user computer environments through session-to-session analysis of Internet history
+60,10.3233/978-1-61499-434-3-103,,Feasibility of text visualization in text steganalysis
+61,10.1002/sec.553,,Feature-based Type Identification of File Fragments
+62,10.1016/j.diin.2004.03.002,,File classification using byte sub-stream kernels
+63,10.1109/spw.2018.00029,,File fragment classification using grayscale image conversion and deep learning in digital forensics
+64,10.12928/telkomnika.v16i2.8230,,File reconstruction in digital forensic
+65,10.1007/978-3-642-33962-2_12,,Finding file fragments in the cloud
+66,10.1109/trustcom.2016.0160,,Forensic analysis of email on android volatile memory
+67,10.1016/j.diin.2016.03.003,,Forensic investigation framework for the document store NoSQL DBMS: MongoDB as a case study
+68,10.3837/tiis.2011.11.021,,GPU-accelerated password cracking of PDF files
+69,10.1109/hst.2016.7495577,,Hardware-based workload forensics: Process reconstruction via TLB monitoring
+70,10.1504/ijesdf.2017.085192,,Identifying artefact on Microsoft OneDrive client to support Android forensics
+71,10.1117/12.682714,,Imaging techniques in digital forensic investigation. A study using neural networks
+72,10.1109/ias.2007.38,,Improving the efficiency of digital forensic search by means of the constrained edit distance
+73,10.1016/b978-0-12-805303-4.00012-5,,Investigating Storage as a Service Cloud Platform: PCloud as a Case Study
+74,,,Live memory forensics of mobile phones
+75,10.1145/604264.604272,,Mining E-mail content for author identification forensics
+76,10.1109/dese.2016.22,,Multimedia File Signature Analysis for Smartphone Forensics
+77,10.1016/j.comcom.2009.07.013,,Network forensics based on fuzzy logic and expert system
+78,10.1080/00450618.2016.1267797,,Novel digital forensic readiness technique in the cloud environment
+79,10.1109/sadfe.2009.18,,OleDetection - Forensics and anti-forensics of steganography in OLE2-formatted documents
+80,10.1117/12.839100,,On detection of median filtering in digital images
+81,10.1007/978-3-662-43886-2_16,,On user interaction behavior as evidence for computer forensic analysis
+82,10.1109/cybersecpods.2016.7502342,the subject’s feature vector can be forensically linked and retrieved from an object of interest,Proactive biometric-enabled forensic imprinting
+83,,,Program execution analysis using userassist key in modernwindows
+84,10.1109/cyberc.2015.10,,Recovery of Evidence and the Judicial Identification of Electronic Data Based on ExFAT
+85,10.1007/978-3-642-41148-9_7,,Reducing the Time Required for Hashing Operations
+86,10.1109/tifs.2013.2272377,,Rotation invariant localization of duplicated image regions based on zernike moments
+87,10.1007/978-3-642-25237-2_6,,SOM-based techniques towards hierarchical visualisation of network forensics traffic data
+88,,,Steganographic techniques for hiding data in SWF files
+89,10.1080/15567280903376896,,Structured forensics examination planning with domain modeling: A report of three experiment trials
+90,10.1109/imf.2014.14,"background noise, generated by mains-powered electronic devices in proximity to the recording device, is a carrier of electrical network frequency (ENF) artifacts",The humming hum: Background noise as a carrier of ENF artifacts in mobile device audio recordings
+91,,,The persistence of memory: Forensic identification and extraction of cryptographic keys
+92,,,Time analysis of hard drive imaging tools
+93,10.1109/ains.2017.8270419,,TRACEMAP: A traceability model for the digital forensics investigation process
+94,10.1016/j.diin.2010.08.004,"Determining whether the evidence discovery system produces sensible, useful and useable results.",Unsupervised discovery of relations for analysis of textual data
+95,,,Using approximate matching to reduce the volume of digital data
+96,,,Web user profiling based on browsing behavior analysis
+97,10.4304/jnw.9.3.645-652,,Windows volatile memory forensics based on correlation analysis
+98,https://doi.org/10.1016/j.comcom.2013.05.005,,A scalable network forensics mechanism for stealthy self-propagating attacks
+99,https://doi.org/10.1016/j.jcss.2014.12.019,,Authorship verification of e-mail and tweet messages applied for continuous authentication
+100,https://doi.org/10.1016/j.diin.2011.05.007,,CAT Detect (Computer Activity Timeline Detection): A tool for detecting inconsistency in computer activity timelines
+101,https://doi.org/10.1016/j.comcom.2016.03.024,,"CURE - Towards enforcing a reliable timeline for cloud forensics: Model, architecture, and experiments"
+102,https://doi.org/10.1016/j.compeleceng.2017.09.014,,Enhancement of multimedia security using random permutation with wavelet function
+103,10.1109/incos.2011.17,,A Forensic Analysis of Images on Online Social Networks
+104,10.1109/isi.2017.8004876,"the application of the SRL task in forensic analysis increases the performance of the forensic experts in terms of agility, precision and recall",A framework for digital forensics analysis based on semantic role labeling
+105,10.1109/icb.2012.6199797,,A joint factor analysis model for handling mismatched recording conditions in forensic automatic speaker recognition
+106,10.1109/wacv.2009.5403106,,A new method for the detection of singular points in fingerprint images
+107,10.1109/tbdata.2017.2683521,,A Novel Methodology to Acquire Live Big Data Evidence from the Cloud
+108,10.1109/tifs.2011.2129512,,A SIFT-Based Forensic Method for Copy–Move Attack Detection and Transformation Recovery
+109,10.1109/ares.2012.71,"from a finite and varied set of videos related to child pornography is possible to infer about the presence of child pornography in unknown videos,",A Statistical Approach for Identifying Videos of Child Pornography at Crime Scenes
+110,10.1109/wifs.2011.6123122,,An analysis on attacker actions in fingerprint-copy attack in source camera identification
+111,10.1109/icicisys.2009.5358149,,An efficient approach to still image copy detection based on SVD and block partition for digital forensics
+112,10.1109/tifs.2012.2218597,,An Evaluation of Popular Copy-Move Forgery Detection Approaches
+113,10.1109/ecrime.2011.6151978,,An expanding reference library for Peer-to-Peer content
+114,10.1109/npc.2008.6,,An Improved Method for Ranking of Search Results Based on User Interest
+115,10.1109/jsyst.2015.2418434,,An Internal Intrusion Detection and Protection System by Using Data Mining and Forensic Techniques
+116,10.1109/wifs.2011.6123159,the tampered image presents a nonaligned double JPEG compression (NA-JPEG),Analysis of non-aligned double JPEG artifacts for the localization of image forgeries
+117,10.1109/jcsse.2015.7219806,,Analyzing and searching process of internet username and password stored in Random Access Memory (RAM)
+118,10.1109/tifs.2011.2119314,,Anti-forensics of digital image compression
+119,10.1109/mines.2010.85,,Blind Tampering Identification by Incorporating EFR and Calibration
+120,10.1109/tsusc.2018.2833502,,CLASS: Cloud Log Assuring Soundness and Secrecy Scheme for Cloud Forensics
+121,10.1109/passat/socialcom.2011.68,,Comparative Analysis of Volatile Memory Forensics: Live Response vs. Memory Imaging
+122,10.1109/cw.2007.47,,"Crime Lead Discovery on Gray Forum Communities: A Case Study on a ""Pirated-CD"" Forum in Taiwan"
+123,10.1109/tifs.2010.2099220,Eve selects the natural strength  for the alpha fake fingerprint,Defending Against Fingerprint-Copy Attack in Sensor-Based Camera Identification
+124,10.1109/icig.2009.46,,Detection of Resampling Based on Singular Value Decomposition
+125,,,Digital forensic research — The analysis of user input on volatile memory of Windows application
+126,,,Discrimination between computer generated and natural human faces based on asymmetry information
+127,10.1109/mines.2009.154,,D-S Evidence Theory Based Digital Image Trustworthiness Evaluation Model
+128,10.1109/icnp.2011.6089049,,Efficient data capturing for network forensics in cognitive radio networks
+129,10.1109/ettandgrs.2008.321,,Email Conversations Reconstruction Based on Messages Threading for Multi-person
+130,10.1109/cisp.2011.6100321,,Estimating image illuminant color based on gray world assumption
+131,10.1109/ares.2015.15,,Evaluation of a Sector-Hash Based Rapid File Detection Method for Monitoring Infrastructure-as-a-Service Cloud Platforms
+132,10.1109/imis.2012.35,some of the enhanced sensor pattern noise extraction techniques proposed in literature are able to improve on the original technique in the considered cases,Experiments on Improving Sensor Pattern Noise Extraction for Source Camera Identification
+133,10.1109/wifs.2010.5711454,,Fast image clustering of unknown source images
+134,10.1109/iwscn.2010.5497996,,Fragment retention characteristics in slack space — Analysis and measurements
+135,10.1109/sadfe.2010.21,,Global Analysis of Drive File Times
+136,10.1109/tsmca.2010.2041654,,Hand-Drawn Face Sketch Recognition by Humans and a PCA-Based Algorithm for Forensic Applications
+137,10.1109/trustcom.2016.0175,"users with same handedness may produce similar typing data, which may define a new aspect of structure in keystroke data,",Handedness Recognition through Keystroke-Typing Behavior in Computer Forensics Analysis
+138,10.1109/icitst.2016.7856710,,Identification and recovery of video fragments for forensics file carving
+139,10.1109/icsmc.2010.5641757,,Identifying camera and processing from cropped JPEG photos via tensor analysis
+140,10.1109/tifs.2011.2139209,,Identifying Image Composites Through Shadow Matte Consistency
+141,10.1109/tifs.2012.2202227,"the image is acquired using a Color Filter Array, and that tampering removes the artifacts due to the demosaicking algorithm",Image Forgery Localization via Fine-Grained Analysis of CFA Artifacts
+142,10.1109/icb.2012.6199788,,Improving radial triangulation-based forensic palmprint recognition according to point pattern comparison by relaxation
+143,10.1109/tifs.2010.2051426,,JPEG Error Analysis and Its Applications to Digital Image Forensics
+144,10.1109/itme.2015.94,,Network Forensics Scenario Reconstruction Method Based on Hidden Markov Models
+145,10.1109/tmm.2012.2191946,,Normalized Energy Density-Based Forensic Detection of Resampled Images
+146,10.1109/ijcb.2011.6117525,,On matching latent to latent fingerprints
+147,10.1109/tifs.2012.2194285,,Robust Image Alignment for Tampering Detection
+148,10.1109/ism.2016.0110,,Social Media Image Retrieval Using Distilled Convolutional Neural Network for Suspicious e-Crime and Terrorist Account Detection
+149,10.1109/bwcca.2010.107,,Source Camera Identification in Real Practice: A Preliminary Experimentation
+150,10.1109/ias.2007.75,,Statistical Disk Cluster Classification for File Carving
+151,10.1109/icmla.2011.135,,Statistical Learning for File-Type Identification
+152,10.1109/icb.2016.7550050,,Tattoo detection based on CNN and remarks on the NIST database
+153,10.1109/aina.2014.18,,Toward a Framework for Continuous Authentication Using Stylometry
+154,10.1109/tifs.2011.2157821,,Using a Knowledge-Based Approach to Remove Blocking Artifacts in Skin Images for Forensic Analysis

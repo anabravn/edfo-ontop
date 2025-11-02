@@ -1,0 +1,22 @@
+[PrefixDeclaration]
+:		http://www.semanticweb.org/thiago.dasilva/ontologies/2022/8/7/untitled-ontology-69#
+owl:		http://www.w3.org/2002/07/owl#
+rdf:		http://www.w3.org/1999/02/22-rdf-syntax-ns#
+xml:		http://www.w3.org/XML/1998/namespace
+xsd:		http://www.w3.org/2001/XMLSchema#
+rdfs:		http://www.w3.org/2000/01/rdf-schema#
+
+[MappingDeclaration] @collection [[
+mappingId	Authors
+target		:author/{Author ID} a :Authorship ; :Author_name {Author}^^xsd:string . 
+source		select `Author ID`, `Author` from authors;
+
+mappingId	Experiment
+target		:exp/{Paper ID} a :Experiment ; :Name {Title} . 
+source		select `Paper ID`, `Title` from papers;
+
+mappingId	Authorship
+target		:exp/{Paper ID} :hasInformationAuthorshipDado :author/{Author ID} . 
+source		select `Paper ID`, `Author ID` from paper_author;
+]]
+
